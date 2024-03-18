@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221304471026",
+    "project_id": "rota-rehberi",
+    "storage_bucket": "rota-rehberi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221304471026:android:d78d6e68797fe20f6cbf6b",
+        "android_client_info": {
+          "package_name": "com.example.rota_rehberi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaszi2D6trQTfVI6DjvCOx8Kef055D-_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
